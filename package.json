@@ -1,0 +1,24 @@
+{
+  "name": "webscraping-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "cheerio": "^0.17.0",
+    "request": "^2.46.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/renanmpimentel/webscraping-blog.git"
+  },
+  "author": "Renan Martins Pimentel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/renanmpimentel/webscraping-blog/issues"
+  },
+  "homepage": "https://github.com/renanmpimentel/webscraping-blog"
+}
